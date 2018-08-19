@@ -1,4 +1,4 @@
-# Custom Page Headers Symphony Extension
+# Page Headers
 
 This extension for [Symphony CMS][1] allows you to define headers by page output. This lets you build headers using data from datasources or other page information. Anything that's accessible from a standard page really!
 
