@@ -15,7 +15,7 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.3" date="2018-08-19" min="2.2" max="2.x.x">
+		<release version="1.3.0" date="2018-08-19" min="2.2" max="2.x.x">
 			- Moved changelog to meta.xml
 			- Added issues- and discuss-urls to meta.xml
 			- Removed about() function from extension driver
